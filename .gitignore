@@ -1,0 +1,5 @@
+_extras
+.*
+nbproject
+jas_core.*
+src/*.java
